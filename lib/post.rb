@@ -9,7 +9,7 @@ class Post
     if self.author
       self.author.name
     else
-      nil  
+      nil
     end
   end
 end
